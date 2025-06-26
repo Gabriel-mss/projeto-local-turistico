@@ -45,3 +45,34 @@ h2{
     font-size: 36px;
     line-height: 140%;
 }
+
+.title{
+    font-size: 28px;
+    font-weight: bold;
+    padding-top: 42px;
+    margin-left: 25px;
+}
+
+.description{
+    font-size: 22px;
+}
+
+a{
+    text-decoration: none;
+    color: #0C51A7;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.option{
+    font-size: 25px;
+    font-weight: bold;
+    margin-left: 25px;
+}
+
+footer{
+    font-size: 21px;
+    color: #515151;
+    margin-top: 16px;
+    text-align: center;
+}
