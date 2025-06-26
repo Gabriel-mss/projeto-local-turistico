@@ -1,0 +1,1 @@
+Este projeto é uma página web estática que visa exibir detalhes e características de um local turístico. A intenção é fornecer uma interface amigável para que os visitantes possam explorar imagens, descrições e informações da localização do ponto turístico.
